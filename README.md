@@ -3,9 +3,9 @@
 
 📫 My contacts: 
 <a href="mailto:ilhamteh118@gmail.com"></a><p>Gmail: ilhamteh118@gmail.com</p>
-<a href="https://www.linkedin.com/in/ilham-t-b8a136306/" target="blank"></a><p>LinkedIn: Ilham T</p>
+<a href="https://www.linkedin.com/in/ilham-t-b8a136306/"></a><p>LinkedIn: Ilham T</p>
 
-<p align="left">Languages I've used:</p>
+<p align="left">🌟 Languages I've used:</p>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Technologies/Tools I've worked with in the past:</p>
+<p align="left">🚀 Technologies/Tools I've worked with in the past:</p>
 
 ###
 
