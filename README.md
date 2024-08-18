@@ -1,13 +1,11 @@
 <h1 align="center">Hey 👋, I'm Ilham</h1>
 <h3 align="center">A student programmer</h3>
 
-📫 My contacts: 
+### 📫 My contacts: 
 <a href="mailto:ilhamteh118@gmail.com"></a><p>Gmail: ilhamteh118@gmail.com</p>
 <a href="https://www.linkedin.com/in/ilham-t-b8a136306/"></a><p>LinkedIn: https://www.linkedin.com/in/ilham-t-b8a136306</p>
 
-<p align="left">🌟 Languages I've used:</p>
-
-###
+###🌟 Languages I've used:</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo mb-12"  />
@@ -21,11 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-###
-
-<p align="left">🚀 Technologies/Tools I've worked with in the past:</p>
-
-###
+### 🚀 Technologies/Tools I've worked with in the past:</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -36,5 +30,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-###
