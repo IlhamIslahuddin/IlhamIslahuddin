@@ -34,7 +34,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/IlhamIslahuddin/IlhamIslahuddin/output/snake.svg" alt="Snake animation" />
-
-###
