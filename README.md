@@ -2,8 +2,8 @@
 <h3 align="center">A student programmer</h3>
 
 📫 My contacts: 
-<p>Gmail: ilhamteh118@gmail.com</p>
-<a href="https://linkedin.com/in/Ilham T" target="blank"><p>LinkedIn: </p><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilham t" height="30" width="40" /></a>
+<a href="mailto:ilhamteh118@gmail.com"></a><p>Gmail: ilhamteh118@gmail.com</p>
+<a href="https://www.linkedin.com/in/ilham-t-b8a136306/" target="blank">LinkedIn:<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilham t" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools I've worked with in the past:</h3>
