@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ilham</h1>
-<h3 align="center">👨🏾‍💻 A student programmer 🖥️</h3>
+<h3 align="center">👨🖥️ A student programmer 🖥️</h3>
 
 ### 📫 My contacts: 
 ###
