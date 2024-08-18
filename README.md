@@ -2,11 +2,12 @@
 <h3 align="center">A student programmer</h3>
 
 ### 📫 My contacts: 
+###
 <a href="mailto:ilhamteh118@gmail.com"></a><p>Gmail: ilhamteh118@gmail.com</p>
 <a href="https://www.linkedin.com/in/ilham-t-b8a136306/"></a><p>LinkedIn: https://www.linkedin.com/in/ilham-t-b8a136306</p>
 
 ###🌟 Languages I've used:</p>
-
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo mb-12"  />
   <img width="12" />
@@ -20,7 +21,7 @@
 </div>
 
 ### 🚀 Technologies/Tools I've worked with in the past:</p>
-
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
