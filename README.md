@@ -1,4 +1,4 @@
-<h2 align="left">Hey :wave:! My name is Ilham</h2>
+<h2 align="left">Hey 👋! My name is Ilham</h2>
 
 ###
 
