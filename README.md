@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ilham</h1>
+<h1 align="center">Nice to meet you 😄, I'm Ilham</h1>
 <h3 align="center">🖥️ A student programmer 🖥️</h3>
 
 ### 📫 My contacts: 
@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-### 🚀 Technologies/Tools I've worked with in the past:
+### 💡 Technologies/Tools I've worked with in the past:
 ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
