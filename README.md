@@ -3,10 +3,10 @@
 
 ### 📫 My contacts: 
 ###
-<div className = "flex">
-  ![Animated Gif of WIFI Symbol](https://github.com/IlhamIslahuddin/IlhamIslahuddin/blob/main/wifi-11193_512.gif)
-  <a href="mailto:ilhamteh118@gmail.com"></a><p>Gmail: ilhamteh118@gmail.com</p>
+<div align="end">
+  <img src = "https://github.com/IlhamIslahuddin/IlhamIslahuddin/blob/main/wifi-11193_512.gif" alt = "Animated Gif of WIFI Symbol"/>
 </div>
+<a href="mailto:ilhamteh118@gmail.com"></a><p>Gmail: ilhamteh118@gmail.com</p>
 <a href="https://www.linkedin.com/in/ilham-t-b8a136306/"></a><p>LinkedIn: https://www.linkedin.com/in/ilham-t-b8a136306</p>
 
 ### 🌟 Languages I've used:
