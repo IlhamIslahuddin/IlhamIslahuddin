@@ -38,7 +38,9 @@
 
 ### 🪄 My Key Skills:
 ###
-<p>-Reverse engineering</p>
-<p>-Quick learner</p>
-<p>-Adaptability</p>
-<p>-Commitment</p>
+<div className ="border: 5px white">
+  <p>-Reverse engineering</p>
+  <p>-Quick learner</p>
+  <p>-Adaptability</p>
+  <p>-Commitment</p>
+</div>
