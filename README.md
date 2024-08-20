@@ -34,7 +34,7 @@
 
 ### 🪄 My Key Skills:
 ###
-<p>-Reverse engineering
--Quick learning
--Adaptability
--Commitment</p>
+<p>-Reverse engineering</p>
+<p>-Quick learner</p>
+<p>-Adaptability</p>
+<p>-Commitment</p>
