@@ -1,8 +1,11 @@
 <h1 align="center">Nice to meet you, I'm Ilham</h1>
 <h3 align="center">🖥️ A passionate student programmer 🖥️</h3>
 <img align="right" src = "https://github.com/IlhamIslahuddin/IlhamIslahuddin/blob/main/wifi-11193_512.gif" alt = "Animated Gif of WIFI Symbol" style = "width:50%; height:auto;"/>
-<p> </p>
-<p> </p>
+<p>
+
+
+  
+</p>
 
 ### 📫 My contacts: 
 ###
