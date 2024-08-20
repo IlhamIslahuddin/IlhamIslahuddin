@@ -2,9 +2,10 @@
 <h3 align="center">🖥️ A passionate student programmer 🖥️</h3>
 <img align="right" src = "https://github.com/IlhamIslahuddin/IlhamIslahuddin/blob/main/wifi-11193_512.gif" alt = "Animated Gif of WIFI Symbol" style = "width:50%; height:auto;"/>
 
-<p className = "margin-top: 200px"></p>
+<div className = "margin-top: 200px">
 ### 📫 My contacts: 
 ###
+</div>div>
 <a href="mailto:ilhamteh118@gmail.com"></a><p>Gmail: ilhamteh118@gmail.com</p>
 <a href="https://www.linkedin.com/in/ilham-t-b8a136306/"></a><p>LinkedIn: https://www.linkedin.com/in/ilham-t-b8a136306</p>
 
