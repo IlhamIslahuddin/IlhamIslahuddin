@@ -3,9 +3,7 @@
 
 ### 📫 My contacts: 
 ###
-<div align="right">
-  <img src = "https://github.com/IlhamIslahuddin/IlhamIslahuddin/blob/main/wifi-11193_512.gif" alt = "Animated Gif of WIFI Symbol" style = "width:50%; height:auto;"/>
-</div>
+<img align="right" src = "https://github.com/IlhamIslahuddin/IlhamIslahuddin/blob/main/wifi-11193_512.gif" alt = "Animated Gif of WIFI Symbol" style = "width:50%; height:auto;"/>
 <a href="mailto:ilhamteh118@gmail.com"></a><p>Gmail: ilhamteh118@gmail.com</p>
 <a href="https://www.linkedin.com/in/ilham-t-b8a136306/"></a><p>LinkedIn: https://www.linkedin.com/in/ilham-t-b8a136306</p>
 
