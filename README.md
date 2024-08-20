@@ -3,7 +3,7 @@
 
 ### 📫 My contacts: 
 ###
-<div align="end">
+<div align="right">
   <img src = "https://github.com/IlhamIslahuddin/IlhamIslahuddin/blob/main/wifi-11193_512.gif" alt = "Animated Gif of WIFI Symbol"/>
 </div>
 <a href="mailto:ilhamteh118@gmail.com"></a><p>Gmail: ilhamteh118@gmail.com</p>
