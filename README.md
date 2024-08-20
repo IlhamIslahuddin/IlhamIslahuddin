@@ -38,7 +38,7 @@
 
 ### 🪄 My Key Skills:
 ###
-<div className ="border: 5px white">
+<div className ="border: 5px solid white">
   <p>-Reverse engineering</p>
   <p>-Quick learner</p>
   <p>-Adaptability</p>
