@@ -36,7 +36,7 @@
 
 <img align="right" src = "https://github.com/IlhamIslahuddin/IlhamIslahuddin/blob/main/gears-5908_512.gif" alt = "Animated Gif of Gears" style = "width:50%; height:auto;"/>
 
-### 🪄 My Key Skills:
+### 🪄  My Key Skills:
 ###
 
 <p>-Reverse engineering</p>
