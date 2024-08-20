@@ -1,5 +1,5 @@
-<h1 align="center">Nice to meet you 😄, I'm Ilham</h1>
-<h3 align="center">🖥️ A student programmer 🖥️</h3>
+<h1 align="center">Nice to meet you, I'm Ilham</h1>
+<h3 align="center">🖥️ A passionate student programmer 🖥️</h3>
 
 ### 📫 My contacts: 
 ###
