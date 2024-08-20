@@ -3,7 +3,10 @@
 
 ### 📫 My contacts: 
 ###
-<a href="mailto:ilhamteh118@gmail.com"></a><p>Gmail: ilhamteh118@gmail.com</p>
+<div className = "flex>
+  ![Animated Gif of WIFI Symbol](https://github.com/IlhamIslahuddin/IlhamIslahuddin/blob/main/wifi-11193_512.gif)
+  <a href="mailto:ilhamteh118@gmail.com"></a><p>Gmail: ilhamteh118@gmail.com</p>
+</div>
 <a href="https://www.linkedin.com/in/ilham-t-b8a136306/"></a><p>LinkedIn: https://www.linkedin.com/in/ilham-t-b8a136306</p>
 
 ### 🌟 Languages I've used:
@@ -38,5 +41,3 @@
 <p>-Quick learner</p>
 <p>-Adaptability</p>
 <p>-Commitment</p>
-
-![Animated Gif of WIFI Symbol](https://github.com/IlhamIslahuddin/IlhamIslahuddin/blob/main/wifi-11193_512.gif)
