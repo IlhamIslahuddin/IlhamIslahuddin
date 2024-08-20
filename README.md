@@ -39,4 +39,4 @@
 <p>-Adaptability</p>
 <p>-Commitment</p>
 
-![Alt text](https://github.com/IlhamIslahuddin/IlhamIslahuddin/wifi-1193_512.gif)
+![Alt text](https://github.com/IlhamIslahuddin/IlhamIslahuddin/wifi-11193_512.gif)
