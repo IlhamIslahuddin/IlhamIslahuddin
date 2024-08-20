@@ -39,4 +39,4 @@
 <p>-Adaptability</p>
 <p>-Commitment</p>
 
-![Alt text](https://github.com/IlhamIslahuddin/IlhamIslahuddin/blob/wifi-11193_512.gif)
+![Animated Gif of WIFI Symbol](https://github.com/username/repository/blob/main/path/to/wifi-11193_512)
