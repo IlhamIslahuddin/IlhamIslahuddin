@@ -42,3 +42,6 @@
 <p>-Quick learner</p>
 <p>-Adaptability</p>
 <p>-Commitment</p>
+
+### 🛰️  Currently exploring: [tkinter]
+###
