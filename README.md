@@ -33,10 +33,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-<img align="right" src = "https://github.com/IlhamIslahuddin/IlhamIslahuddin/blob/main/gears-5908_512.gif" alt = "Animated Gif of Gears" style = "width:50%; height:auto;"/>
-
 ### 🪄  My Key Skills:
 ###
+
+<img align="right" src = "https://github.com/IlhamIslahuddin/IlhamIslahuddin/blob/main/gears-5908_512.gif" alt = "Animated Gif of Gears" style = "width:50%; height:auto;"/>
 
 <p>-Reverse engineering</p>
 <p>-Quick learner</p>
