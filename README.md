@@ -43,5 +43,5 @@
 <p>-Adaptability</p>
 <p>-Commitment</p>
 
-### 🛰️  Currently exploring: PyQt5
+### 🛰️  Currently exploring: Godot
 ###
