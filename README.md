@@ -43,5 +43,5 @@
 <p>-Adaptability</p>
 <p>-Commitment</p>
 
-### 🛰️  Currently exploring: Godot
+### 🛰️  Currently exploring: Godot 4.3
 ###
