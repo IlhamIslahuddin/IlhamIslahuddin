@@ -43,5 +43,5 @@
 <p>-Adaptability</p>
 <p>-Commitment</p>
 
-### 🛰️  Currently exploring: Godot 4.3 Game Engine
+### 🛰️  Currently exploring: [Godot 4.3 Game Engine]
 ###
