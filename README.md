@@ -1,4 +1,4 @@
-<h1 align="center">Nice to meet you, I'm Ilham</h1>
+<h1 align="center">I'm Ilham, Nice to meet you </h1>
 <h3 align="center">🖥️ A passionate student programmer 🖥️</h3>
 
 ### 📫 My contacts: 
