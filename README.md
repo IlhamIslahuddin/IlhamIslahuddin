@@ -6,7 +6,6 @@
 <a href="mailto:ilhamteh118@gmail.com"></a><p>Gmail: ilhamteh118@gmail.com</p>
 <a href="https://www.linkedin.com/in/ilham-t-b8a136306/"></a><p>LinkedIn: https://www.linkedin.com/in/ilham-t-b8a136306</p>
 
-
 ### 🌟 Languages I've used:
 ###
 <div align="left">
@@ -45,8 +44,8 @@
 <p>-Adaptability</p>
 <p>-Commitment</p>
 
-### 🛰️  Currently exploring: [Godot 4.3 Game Engine]
-###
+### 🛰️  My Projects: ###
 
 ### [Python Notepad:](https://github.com/IlhamIslahuddin/Python-Notepad)
 ###
+<img align="right" src="Python-Notepad-Example.png" height="630" width="480">
