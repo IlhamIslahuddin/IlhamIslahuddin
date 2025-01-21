@@ -47,3 +47,6 @@
 
 ### 🛰️  Currently exploring: [Godot 4.3 Game Engine]
 ###
+
+### Python Notepad:
+###
