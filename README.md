@@ -48,5 +48,5 @@
 ### 🛰️  Currently exploring: [Godot 4.3 Game Engine]
 ###
 
-### Python Notepad:
+### [Python Notepad:](https://github.com/IlhamIslahuddin/Python-Notepad)
 ###
