@@ -35,17 +35,19 @@
 </div>
 
 ### 🪄  My Key Skills:
-###
-
 <img align="right" src = "https://github.com/IlhamIslahuddin/IlhamIslahuddin/blob/main/gears-5908_512.gif" alt = "Animated Gif of Gears" style = "width:50%; height:auto;"/>
+
+###
 
 <p>-Reverse engineering</p>
 <p>-Quick learner</p>
 <p>-Adaptability</p>
 <p>-Commitment</p>
 
+<p>-------------------------------------</p>
+
 ### 🛰️  My Projects: ###
 
-### [Python Notepad:](https://github.com/IlhamIslahuddin/Python-Notepad)
+### [1. Python Notepad:](https://github.com/IlhamIslahuddin/Python-Notepad)
 ###
 <img align="right" src="Python-Notepad-Example.png" height="630" width="480">
