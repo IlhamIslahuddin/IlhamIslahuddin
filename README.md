@@ -47,3 +47,4 @@
 
 ### [1. Python Notepad:](https://github.com/IlhamIslahuddin/Python-Notepad)
 <img align="right" src="Python-Notepad-Example.png" height="630" width="480">
+<p>This notepad marks my first tkinter project. It was one of the first times I could manipulate my own GUI and create a proper application. I looked forward to every chance I got to improve the notepad and add more features so this is the result of that.</p>
