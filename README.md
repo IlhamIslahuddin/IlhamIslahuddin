@@ -62,4 +62,4 @@ Key features:
 
 <br>
 
-### [1. Python Notepad:](https://github.com/IlhamIslahuddin/Python-Notepad)
+### 2. [IN PROGRESS]
