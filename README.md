@@ -47,7 +47,7 @@
 
 <img align="right" src="Python-Notepad-Example.png" height="360" width="280">
 
-### [1. Python Notepad:](https://github.com/IlhamIslahuddin/Python-Notepad) | `tkinter` `Application`
+### [1. Python Notepad:](https://github.com/IlhamIslahuddin/Python-Notepad) | `tkinter` `Application` `Offline`
 <p>This notepad marks my first tkinter project. It was one of the first times I could manipulate my own GUI and create a proper application so I looked forward to every chance I got to improve the notepad and add more features.
 
 Key features:
