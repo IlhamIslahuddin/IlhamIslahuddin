@@ -60,7 +60,8 @@ Key features:
 
 -Can save and load text files</p>
 
-<br>
+-Mini To do list
+
 <br>
 
 ### 2. [IN PROGRESS]
