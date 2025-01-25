@@ -64,4 +64,4 @@ Key features:
 
 <br>
 
-### 2. [IN PROGRESS]
+### 2. [IN PROGRESS] | `tkinter` `Application` `Offline`
