@@ -71,4 +71,6 @@ Key features:
 
 -Current time and date
 
--Timer</p>
+-Timer
+
+-Stopwatch</p>
