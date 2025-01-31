@@ -58,9 +58,9 @@ Key features:
 
 -Large selection of fonts
 
--Can save and load text files</p>
+-Can save and load text files
 
--Mini To-do list
+-Mini To-do list</p>
 
 <br>
 
