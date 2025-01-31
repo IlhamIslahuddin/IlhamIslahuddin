@@ -65,4 +65,8 @@ Key features:
 <br>
 
 ### 2. [IN PROGRESS] | `tkinter` `Application` `Offline`
-<p>This is a simple take on clock apps on phones and PCs. It includes a stopwatch, timer and the current time and date. I like to take simple apps and adapt them in my own way or explore how they could have been made.</p>
+<p>This is a simple take on clock apps on phones and PCs. It includes a stopwatch, timer and the current time and date. I like to take simple apps and adapt them in my own way or explore how they could have been made.
+
+Key features:
+
+-Current time and date</p>
