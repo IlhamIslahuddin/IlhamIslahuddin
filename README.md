@@ -69,4 +69,6 @@ Key features:
 
 Key features:
 
--Current time and date</p>
+-Current time and date
+
+-Timer</p>
