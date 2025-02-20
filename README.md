@@ -37,7 +37,7 @@
 ###
 
 <p>-Reverse engineering</p>
-<p>-Quick learner</p>
+<p>-Willing to learn/Quick learner</p>
 <p>-Adaptability</p>
 <p>-Commitment</p>
 
