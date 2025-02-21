@@ -38,6 +38,7 @@
 
 <p>-Reverse engineering</p>
 <p>-Willing to learn/Quick learner</p>
+<p>-Open-minded</p>
 <p>-Adaptability</p>
 <p>-Commitment</p>
 
