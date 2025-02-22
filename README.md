@@ -53,7 +53,7 @@
 
 Key features:
 
--Character count
+-Character counter
 
 -Mini canvas
 
