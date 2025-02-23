@@ -55,7 +55,7 @@ Key features:
 
 -Character counter
 
--Mini canvas
+-Mini drawable canvas
 
 -Large selection of fonts
 
