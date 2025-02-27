@@ -57,7 +57,7 @@ Key features:
 
 -Mini drawable canvas
 
--Large selection of fonts
+-Large selection of fonts to try
 
 -Can save and load text files
 
