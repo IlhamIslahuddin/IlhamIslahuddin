@@ -66,7 +66,7 @@ Key features:
 <br>
 
 ### [2. Python Clock](https://github.com/IlhamIslahuddin/Python-Clock) | `tkinter` `Application` `Offline` `Time`
-<p>This is a simple take on clock apps on phones and PCs. It includes a stopwatch, timer and the current time and date. I like to take simple apps and adapt them in my own way or explore how they could have been made.
+<p>This is a simple take on clock apps on phones and PCs. It includes a stopwatch, timer, and the current time and date. I like to take simple apps and adapt them in my own way to explore and learn how they could have been made.
 
 Key features:
 
