@@ -3,7 +3,7 @@
 
 ### 📫 My contacts: 
 <a href="mailto:ilhamteh118@gmail.com"></a><p>Gmail: ilhamteh118@gmail.com</p>
-<a href="https://www.linkedin.com/in/ilham-t-b8a136306/"></a><p>LinkedIn: https://www.linkedin.com/in/ilham-t-b8a136306</p>
+<a href="https://www.linkedin.com/in/ilham-teh/"></a><p>LinkedIn: https://www.linkedin.com/in/ilham-teh</p>
 
 ### 🌟 Languages I've used:
 <div align="left">
